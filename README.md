@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1>Hello! 👋</h1>
 
-<!--
-**mattleong/mattleong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🙋‍♂️ About Me
+- 💼 Senior Software Engineer at [Mailgun](https://www.mailgun.com/)
+- 💫 Creator of [CosmicNvim](https://github.com/mattleong/CosmicNvim)
 
-Here are some ideas to get you started:
+🔧 Skills
+- 🖥️ Programming languages: TypeScript, JavaScript / Node.js, Python, Golang, Lua
+- 🖼️ Frameworks: React, Jotai, Nx by Nrwl, React-Query, Webpack, Cypress, Jest
+- 🗣️ Human languages: English, Hawaiian Pidgin 🤙
+- 🤹 Other skills: Github / Github Actions, Git, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- <br /> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=mattleong&show_icons=true&theme=tokyonight" />  -->
+
