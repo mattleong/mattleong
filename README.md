@@ -5,7 +5,7 @@ I am a full stack (front-end centric) web developer developer from Oahu, HI 🌴
 **About me**
 
 - 💼 Software Engineer at [Pathwire](https://pathwire.com)
-- 💫 Creator of CosmicNvim
+- 💫 Creator of [CosmicNvim](https://github.com/mattleong/CosmicNvim)
 - ❤️ Things I love: TypeScript, React, and Neovim   
 
 <br />
