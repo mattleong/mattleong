@@ -8,6 +8,6 @@ I am a full stack (front-end centric) web developer developer from Oahu, HI 🌴
 - 💫 Creator of CosmicNvim
 - ❤️ Things I love: TypeScript, React, and Neovim   
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mattleong&show_icons=true&theme=tokyonight" />  
-</p>
+<br />
+<img src="https://github-readme-stats.vercel.app/api?username=mattleong&show_icons=true&theme=tokyonight" />  
+
