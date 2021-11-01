@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hello! My name is Matt Leong 😄</h1>
 
-<!--
-**mattleong/mattleong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a full stack (front-end centric) web developer developer from Oahu, HI 🌴  
 
-Here are some ideas to get you started:
+**About me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Software Engineer at [Pathwire](https://pathwire.com)
+- 💫 Creator of CosmicNvim
+- ❤️ Things I love: TypeScript, React, and Neovim   
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mattleong&show_icons=true&theme=tokyonight" />  
+</p>
