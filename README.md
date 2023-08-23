@@ -1,13 +1,17 @@
-<h1 align="center">Hello! My name is Matt Leong 😄</h1>
+<h1>Hello! 👋</h1>
 
-I am a full stack (front-end centric) web developer developer from Oahu, HI 🌴  
+My name is Matt. I am a full stack TypeScript developer based in Portland, OR.
 
-**About me**
-
+🙋‍♂️ About Me
 - 💼 Senior Software Engineer at [Mailgun](https://www.mailgun.com/)
 - 💫 Creator of [CosmicNvim](https://github.com/mattleong/CosmicNvim)
-- ❤️ Things I love: TypeScript, React, and Neovim   
 
-<br />
+🔧 Skills
+- 🖥️ Programming languages: TypeScript, JavaScript / Node.js, Python, Golang, Lua
+- 🖼️ Frameworks: React, Jotai, Nx by Nrwl, React-Query, Webpack, Cypress, Jest
+- 🗣️ Human languages: English, Hawaiian Pidgin 🤙
+- 🤹 Other skills: Github / Github Actions, Git, Docker
+
+<!-- <br /> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=mattleong&show_icons=true&theme=tokyonight" />  -->
 
