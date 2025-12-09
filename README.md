@@ -1,7 +1,7 @@
 <h1>Hello! 👋</h1>
 
 🙋‍♂️ About Me
-- 💼 Senior Software Engineer at [Mailgun](https://www.mailgun.com/)
+- 💼 Staff Software Engineer at [Mailgun](https://www.mailgun.com/)
 - 💫 Creator of [CosmicNvim](https://github.com/mattleong/CosmicNvim)
 
 🔧 Skills
